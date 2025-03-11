@@ -16,3 +16,5 @@ cargo run
 npm i
 npm run dev
 ```
+
+p.s. This project is just some syntax practice (nothing fancy 👀). Why would a freakin TODO app need any concurrency management and some crazy performance rust shit!? 🙃
